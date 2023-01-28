@@ -1,0 +1,25 @@
+.component{
+    height: 100%;
+    width: 100%;
+}
+
+.time{
+    font-family: 'Bungee Hairline';
+    position: relative; 
+    width: 80%; 
+    margin: -95% auto;
+    text-align: center; 
+    font-style: normal;
+    line-height: 120px;
+    letter-spacing: 0.05em;
+    color: var(--blue);
+}
+
+.title{
+    font-family: 'Bungee Hairline';
+    position: relative; 
+    width: 75%; 
+    margin: 100% auto;
+    text-align: center; 
+    color: white;
+}

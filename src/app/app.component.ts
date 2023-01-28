@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { HexComponent } from './hex/hex.component';
 
 @Component({
   selector: 'app-root',
