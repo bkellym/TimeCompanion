@@ -1,0 +1,24 @@
+.component{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: inline-flex;
+    font-family: 'Bungee Inline';
+    font-size: 2.2rem;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    border-width: 2px;
+    -webkit-text-fill-color: var(--background); /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 0.4px;
+    -webkit-text-stroke-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.menu-button{
+    position: relative; 
+    margin-left: auto;
+    right: 0;
+}
